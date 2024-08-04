@@ -6,9 +6,11 @@ node.js + express + mongo + react
 start serve:
 
 `cd api`
+
 `npm run dev`
 
 start client:
 
 `cd client`
+
 `npm run dev`
